@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+
+.blog-body{
+    width: 1643px;
+    height: 648.57px;
+    margin-top: 47px;
+    margin-left: 38px;
+    border: 2px solid black; 
+    justify-content: center;
+    align-items: center;
+}
+.bold{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.headline{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.paragraph{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.blog-body,
+.group-1{
+    width: 1540.51;
+    height: 613.54px;
+    margin-top: 94.46px;
+    margin-left: 89px;
+}
+
+.read-more{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.read-more:hover{
+    color: blueviolet;
+    transition: all 0.1s;
+}
+
+.read-more::after{
+    text-decoration: none;
+}
+
+.group-2{
+    width: 962px;
+    height: 77px;
+    margin-top: 20ox;
+    margin-left: 58px;
+}
+
+.group-2-headline{
+    color: #000;
+    font-family: Inter;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
+
+.image img{
+    width: 1051px;
+    height: 762px;
+    flex-shrink: 0;
+}
+
+.trivia{
+    width: 1623px;
+    height: 469px;
+    margin-top: 20px;
+    margin-left: 58px;
+}
+
+.trivia ol{
+    color: #000;
+    font-family: Inter;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
